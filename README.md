@@ -18,7 +18,7 @@
 
 ### :heavy_plus_sign: More information:
 
-- **[Website](https://lucasmt01.github.io/lucasmt01/)**
+- **[Website](https://lucasmt01.github.io/lucasmt.github.io/)**
 ---
 
 ### 📊 Activity
